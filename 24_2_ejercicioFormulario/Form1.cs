@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace _24_2_ejercicioFormulario
-{
+{ //El comentario nuevo...
     public partial class frDatosPersonales : Form
     {
         /*Al presionar el botón aceptar se debe validar que los text Apellido, Nombre, Edad y
